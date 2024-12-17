@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering and digital technology at Chulalongkorn University.
+- 🎓 &nbsp; Studying at Computer Engineering and digital technology at Chulalongkorn University.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -51,3 +51,19 @@
   A task management platform that resembles a Trello clone.
 
   [Project link](https://github.com/AppSom/AppSom)
+
+- <h4>Hope Fish-feeder Embedded project</h4>
+  An automatic fishfeeder controlled from Line Official Account.
+
+  [Project link](https://github.com/orgs/HopeFishFeeder/repositories)
+
+- <h4>Scopus scraping</h4>
+  Scrape a large amount of data from Scopus using the Scopus API and Selenium over a couple of days.
+
+  [Project link](https://github.com/rainydayo/selenium_test)
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://mail.google.com/"><img alt="Email" src="https://img.shields.io/badge/Email-nawatpim@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
